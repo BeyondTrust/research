@@ -58,14 +58,11 @@ tenantId = tenant_id_in_etra
 
 ## Exploit
 
-Now the above setup is complete, we have configred Entra in such a way we can exploit. The `exploit.py` script shows how a user who is not global admin can assign themselves global admin via the path setup when running the `setup.py` script above. This script is useful for testing individual API permissions.
+Now the above setup is complete, we have configred Entra in such a way we can exploit. The `exploit.py` script shows how a sufficiently privileged service principal can assign global admin via the API permission setup prior. This script is useful for testing individual API permissions to see if the script's service principal can assign to GA. This script does not prove an app owner/admin can create credentials of a service principal, feel free to test this manually (setup.py can set this up).
 
-**Example**
-`(user)-[Owns]->(app)-[Runs As]->(SP)-[Has Permission]->(api permission)-[Can be exploited]->(global admin)`
+**Example Attack Path**
+`(service principal)-[Has Permission]->(api permission)-[Can be exploited]->(global admin)`
 
 Example
 1. Run `python exploit.py`, follow prompts...
-
-
-
 
