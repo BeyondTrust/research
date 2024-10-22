@@ -27,16 +27,19 @@ All these directory roles, have roughly the same level of privilege as the Globa
 
 ## Demo
 
+Warning! Running the setup creates insecure attack paths inside your Entra environment, this should be used in lab scenarios only.
+In order to demonstrate the exploit we will create an app that is responsible for setting up the attack paths, give it sufficient privileges, and then run the app to perform the setup.
+
 ### Setup
 
-1. Register 'Hackbot' as an application
-2. Grant Hackbot following api permissions
+1. Register an application in Entra ID (remember to delete after)
+2. Grant application following api permissions
   - Application.ReadWrite.All
   - AppRoleAssignment.ReadWrite.All
   - Directory.ReadWrite.All
   - RoleManagement.ReadWrite.Directory
   - User.ReadWrite.All
-3. Make credentials for Hackbot
+3. Make credentials for the application
 4. Put correct credentials in `setup.cfg`
 5. Run `python setup.py`, follow prompts
   - create an app, or use an existing one
@@ -48,15 +51,20 @@ Example setup.cfg
 
 ```
 [azure]
-clientId = client_id_of_hackbot_app
+clientId = client_id_of_app
 clientSecret = secret_from_step_3
 tenantId = tenant_id_in_etra
 ```
 
 ## Exploit
 
-1. Run `python exploit.py`, follow prompts
+Now the above setup is complete, we have configred Entra in such a way we can exploit. The `exploit.py` script shows how a user who is not global admin can assign themselves global admin via the path setup when running the `setup.py` script above. This script is useful for testing individual API permissions.
 
+**Example**
+`(user)-[Owns]->(app)-[Runs As]->(SP)-[Has Permission]->(api permission)-[Can be exploited]->(global admin)`
+
+Example
+1. Run `python exploit.py`, follow prompts...
 
 
 
