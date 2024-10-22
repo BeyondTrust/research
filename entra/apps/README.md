@@ -58,6 +58,12 @@ tenantId = tenant_id_in_etra
 
 ## Exploit
 
+Now the above setup is complete we have configred Entra in such a way. The exploit the shows how a user who is not global admin can gain global admin via the attack path setup when running `setup.py` script above.
+
+**Example**
+`(user)-[Owns]->(app)-[Runs As]->(SP)-[Has Permission]->(api permission)-[Can be exploited]->(global admin)`
+
+Example
 1. Run `python exploit.py`, follow prompts...
 
 
