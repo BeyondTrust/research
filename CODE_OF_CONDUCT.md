@@ -119,12 +119,11 @@ community.
 
 Attribution
 This Code of Conduct is adapted from the Contributor Covenant,
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+version 2.1, available at [v2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
 
 Community Impact Guidelines were inspired by
 Mozilla's code of conduct enforcement ladder.
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
+For answers to common questions about this code of conduct, see the [FAQ]
+(https://www.contributor-covenant.org/faq). Translations are [available]
+(https://www.contributor-covenant.org/translations).

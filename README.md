@@ -1,8 +1,10 @@
 # research
 
-This repo contains a known list of exploits, including how to set them up, and the scripts  to run the exploits.
+This repo contains a list of known exploits for various sytems / software produced by BeyondTrust's research team.
+This is designed to make BeyondTrust's research reproducible, so exploits can be better understood and recreated by a wider audience.
+The root level folders are organized into 'domains' with subfolders containing specific exploits within that domain.
 
-The repo is divided into domain folders, current domains...
+## exploits
 
-- Entra ID
-
+- `entra` - Entra ID / Azure Active Directory 
+    - `apps` - exploits that revolve around highly privileged apps in Entra
