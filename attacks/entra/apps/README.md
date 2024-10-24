@@ -28,6 +28,8 @@ All these directory roles, have roughly the same level of privilege as the Globa
 ## Demo
 
 Warning! Running the setup creates insecure attack paths inside your Entra environment, this should be used in lab scenarios only.
+Warning! The scripts store sensitive secrets in `setup.cfg` and `exploit.cfg` please consider deleting them after using. Improper storage of these secrets could lead to your Entra ID environment being compromised.
+
 In order to demonstrate the exploit we will create an app that is responsible for setting up the attack paths, give it sufficient privileges, and then run the app to perform the setup.
 
 ### Setup
