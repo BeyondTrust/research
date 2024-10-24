@@ -1,8 +1,8 @@
 ## What makes an App a security risk in Entra ID?
 
-By granting Apps permissions they need to operate—especially for apps used to manage the directory itself—we can introduce the risk of creating unintended paths to privilege. 
+By granting Apps permissions they need to operate—especially for apps used to manage the directory itself—we can introduce the risk of creating unintended paths to privilege.
 
-In Entra ID, every App has a corresponding “service principal” attached to it. When a human performs actions within Entra, it does this using a user account. When an application performs actions within Entra, it does so using a service principal account. 
+In Entra ID, every App has a corresponding “service principal” attached to it. When a human performs actions within Entra, it does this using a user account. When an application performs actions within Entra, it does so using a service principal account.
 
 There are two key factors that make Apps and their associated Service Principals dangerous.
 
@@ -23,7 +23,7 @@ Just like users, service principals can be assigned roles in Entra, and some bui
 - Security Administrator
 - Intune Administrator
 
-All these directory roles, have roughly the same level of privilege as the Global Adminstator role, which is the highest privileged role, having permission to do everything. If any of our App’s service principals have a role listed above, it’s management must be carefully protected, as anyone who can manage the app essentially has these permissions too. This is because the human user controls the app, and, in essence, can make it do anything the service princiapl’s assigned role can perform.
+All these directory roles, have roughly the same level of privilege as the Global Administrator role, which is the highest privileged role, having permission to do everything. If any of our App’s service principals have a role listed above, it’s management must be carefully protected, as anyone who can manage the app essentially has these permissions too. This is because the human user controls the app, and, in essence, can make it do anything the service principal’s assigned role can perform.
 
 ## Demo
 
@@ -55,12 +55,12 @@ Example setup.cfg
 [azure]
 clientId = client_id_of_app
 clientSecret = secret_from_step_3
-tenantId = tenant_id_in_etra
+tenantId = tenant_id_in_entra
 ```
 
 ## Exploit
 
-Now the above setup is complete, we have configred Entra in such a way we can exploit. The `exploit.py` script shows how a sufficiently privileged service principal can assign global admin via the API permission setup prior. This script is useful for testing individual API permissions to see if the script's service principal can assign to GA. This script does not prove an app owner/admin can create credentials of a service principal, feel free to test this manually (setup.py can set this up).
+Now the above setup is complete, we have configured Entra in such a way we can exploit. The `exploit.py` script shows how a sufficiently privileged service principal can assign global admin via the API permission setup prior. This script is useful for testing individual API permissions to see if the script's service principal can assign to GA. This script does not prove an app owner/admin can create credentials of a service principal, feel free to test this manually (setup.py can set this up).
 
 **Example Attack Path**
 `(service principal)-[Has Permission]->(api permission)-[Can be exploited]->(global admin)`
