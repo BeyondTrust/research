@@ -1,0 +1,868 @@
+Permission Name,Description,Privileged
+PermissionsAcceptRiskForProblems,Accept Risk For Problems,FALSE
+PermissionsAccessActivation,Allows user access activations,FALSE
+PermissionsAccessApplicationFormObjects,Access Application Form-Related Functionality,FALSE
+PermissionsAccessBankingRelationshipAssistance,Access Banking Relationship Assistance,FALSE
+PermissionsAccessBankingServiceAgent,Access Banking Service Agent,FALSE
+PermissionsAccessBudgetManagement,Manage Budgets,FALSE
+PermissionsAccessCdpDataExplorer,Access Data Cloud Data Explorer,FALSE
+PermissionsAccessCdpProfileExplorer,Access Data Cloud Profile Explorer,FALSE
+PermissionsAccessCMC,Access Experience Management,FALSE
+PermissionsAccessContentBuilder,Access drag-and-drop content builder,FALSE
+PermissionsAccessCustomerDataCloudSetup,Allows user access Data Cloud setup menu,FALSE
+PermissionsAccessDisputePrompts,Provides access to Financial Services Email prompt templates,FALSE
+PermissionsAccessEinsteinAutofill,Access Einstein Autofill,FALSE
+PermissionsAccessFinancialAccounts,Financial Accounts User,FALSE
+PermissionsAccessGeniePlatform,Allows user access Data Cloud,FALSE
+PermissionsAccessIdpCrudApi,Manage Document Processing Configurations,FALSE
+PermissionsAccessIdpUi,Allow Access to Data Cloud Document AI UI,FALSE
+PermissionsAccessOrchestrationObjects,Access Orchestration Objects,FALSE
+PermissionsAccessPolicyAgent,Access Policy Agent,FALSE
+PermissionsAccessPSPasCaseAgents,Access Patient Support Programs as a Case Agent,FALSE
+PermissionsAccessPSPasProgramLead,Access Patient Support Programs as a Program Lead,FALSE
+PermissionsAccessSegment,Allows user access segments,FALSE
+PermissionsAccessServiceEinstein,Access Service Einstein,FALSE
+PermissionsAccessSfDrive,Grant users permission to SfDrive,FALSE
+PermissionsAccessToComplaintMgmt,Public Complaint Management User,FALSE
+PermissionsAccessToDisputeManagement,Dispute Management User,FALSE
+PermissionsAccessToServiceProcess,Service Process User,FALSE
+PermissionsAccessTrialInfoGuestUser,Access Clinical Trial Information as Guest User,FALSE
+PermissionsAccessWealthAdvisorAgent,Financial Advisor Assistance Agent,FALSE
+PermissionsAccountSwitcherUser,Account Switcher User,FALSE
+PermissionsAccsPtntSuptPgmUseEinstein,Expose patient support programs powered by Einstein generative AI,FALSE
+PermissionsActionableListCompUser,Actionable Segmentation Outreach,FALSE
+PermissionsActionableListConfigUser,Actionable Segmentation Admin,FALSE
+PermissionsActionableListCreator,Actionable Segmentation List Manager,FALSE
+PermissionsActionableListUser,Actionable Segmentation Objects,FALSE
+PermissionsActionPlansUserAccess,Permission to access the Action Plans feature,FALSE
+PermissionsActivateContract,Activate Contracts,FALSE
+PermissionsActivateDeactivateNonSetupFlow,Activate or Deactivate Flows,TRUE
+PermissionsActivateOrder,Activate Orders,FALSE
+PermissionsActivateSystemModeFlows,Enable System Mode Flow Activation,TRUE
+PermissionsActivitiesAccess,Access Activities,FALSE
+PermissionsAddAnalyticsRemoteConnections,Add CRM Analytics Remote Connections,FALSE
+PermissionsAddAsgntElmntToNonSetupFlow,Add Assignment Element to Flows,FALSE
+PermissionsAddCollFltrElmntToNonSetupFlow,Add Collection Filter Element to Flows,FALSE
+PermissionsAddCollSrtElmntToNonSetupFlow,Add Collection Sort Element to Flows,FALSE
+PermissionsAddCreaRecElmntToNonSetupFlow,Add Create Records Element to Flows,FALSE
+PermissionsAddDecisionElmntNonSetupFlow,Add Decision Element to Flows,FALSE
+PermissionsAddDelRecElmntToNonSetupFlow,Add Delete Records Element to Flows,FALSE
+PermissionsAddDirectMessageMembers,Add People to Direct Messages,FALSE
+PermissionsAddGetRecElmntToNonSetupFlow,Add Get Records Element to Flows,FALSE
+PermissionsAddLoopElmntToNonSetupFlow,Add Loop Element to Flows,FALSE
+PermissionsAddSubflowElmntToNonSetupFlow,Add Subflow Element to Flows,FALSE
+PermissionsAddTrfmElmntToNonSetupFlow,Add Transform Element to Flows,FALSE
+PermissionsAddUpdtRecElmntToNonSetupFlow,Add Update Records Element to Flows,FALSE
+PermissionsAddWaitToNonSetupFlow,Add Wait Element to Flows,FALSE
+PermissionsAddWaveNotificationRecipients,Add Recipients to CRM Analytics Notifications,FALSE
+PermissionsAdminAnalyticsUser,Access Event Monitoring Analytics Templates and Apps,FALSE
+PermissionsADSEnabledOnFSMobile,Performance Priming for Field Service Mobile,FALSE
+PermissionsAdvancedCsvDataImportUser,Advanced Csv Data Import User Permission,FALSE
+PermissionsAECommunityAccess,Use Assessment Envelope objects via Experience Cloud sites,FALSE
+PermissionsAgentforceSchedulingSupervisorView,Access Agentforce Scheduling Supervisor View,FALSE
+PermissionsAgentforceServiceAgentUser,Agentforce Service Agent User,FALSE
+PermissionsAICreateInsightObjects,Create AI Insight Objects,FALSE
+PermissionsAIViewInsightObjects,View AI Insight Objects,FALSE
+PermissionsAllowAIAccelerator,View AI Accelerator Predictions.,FALSE
+PermissionsAllowEmailIC,Email-Based Identity Verification Option,FALSE
+PermissionsAllowERIBasicAccess,Allow the user Basic Einstein Relationship Insights access permissions.,FALSE
+PermissionsAllowLightningLogin,Lightning Login User,FALSE
+PermissionsAllowOCIAvailabilityAPIs,Use Omnichannel Inventory Availability APIs,FALSE
+PermissionsAllowUniversalSearch,Knowledge One,FALSE
+PermissionsAllowViewEditConvertedLeads,View and Edit Converted Leads,FALSE
+PermissionsAllowViewKnowledge,Allow View Knowledge,FALSE
+PermissionsAnalyticsQueryServiceConsumer,Allow the user to run queries with the Analytics Query Service,FALSE
+PermissionsApexRestServices,Apex REST Services,TRUE
+PermissionsApiEnabled,API Enabled,FALSE
+PermissionsApiUserOnly,Api Only User,FALSE
+PermissionsAppFrameworkManageApp,Access to manage the template framework apps,FALSE
+PermissionsAppFrameworkManageTemplate,Access to manage the template framework templates,FALSE
+PermissionsAppFrameworkViewApp,Access to view templated apps and assets,FALSE
+PermissionsAppointmentBookingUserAccess,Enables the Appointment Booking feature,FALSE
+PermissionsApprovalAdmin,Approval Admin,FALSE
+PermissionsApprovalDesigner,Approval Designer,FALSE
+PermissionsArchiveArticles,Archive Articles,FALSE
+PermissionsAssessmentPlatformUser,Discovery Framework Platform User,FALSE
+PermissionsAssignPermissionSets,Assign Permission Sets,TRUE
+PermissionsAssignTopics,Assign Topics,FALSE
+PermissionsAssignUserToSkill,Assign Chat Skills to Users,FALSE
+PermissionsAssocChgRqstAndProb,Associate Change Requests and Problems,FALSE
+PermissionsAssociationEngineUserAccess,User license to access Record Association Builder in Financial Services Cloud.,FALSE
+PermissionsAssocIncAndChgRqst,Associate Incidents and Change Requests,FALSE
+PermissionsAssocIncAndProb,Associate Incidents and Problems,FALSE
+PermissionsAssocRelAndChgRqst,Associate Releases and Change Requests,FALSE
+PermissionsAssocRelAndInc,Associate Releases and Incidents,FALSE
+PermissionsAssocRelAndProb,Associate Releases and Problems,FALSE
+PermissionsAttributionModelUser,Attribution Model User,FALSE
+PermissionsAuthorApex,Author Apex,TRUE
+PermissionsAuthorizePayments,Authorize Payments,FALSE
+PermissionsAutomaticActivityCapture,Use Einstein Activity Capture,FALSE
+PermissionsAutonomousAnalyticsPrivacy,Manage Autonomous Insights Data Privacy,FALSE
+PermissionsB2BMarketingAnalyticsUser,Create B2B Marketing Analytics Apps,FALSE
+PermissionsBACommunityAccess,Enable community users to access Benefit Assistance objects and features.,FALSE
+PermissionsBenefitManagementAccess,"Allows internal org users to access Programs, Benefits, and Goal objects and features.",FALSE
+PermissionsBillingPaymentApiUser,Apply and Unapply Payments Using APIs,FALSE
+PermissionsBillingRefundApiUser,Apply and Unapply Refunds Using APIs,FALSE
+PermissionsBotManageBots,Manage Bots,FALSE
+PermissionsBotManageBotsTrainingData,Manage Bots Training Data,FALSE
+PermissionsBranchManagementUserAccess,User license to access Branch Management in Financial Services Cloud.,FALSE
+PermissionsBREAlertsUserAccess,Access Record Alerts for Business Rules Engine,FALSE
+PermissionsBroadcaster,Send One-to-Many Messages,FALSE
+PermissionsBulkApiHardDelete,Bulk API Hard Delete,TRUE
+PermissionsBulkMacrosAllowed,Run Macros on Multiple Records,FALSE
+PermissionsBVCommunityAccess,Use objects in the Benefit Verification data model via Experience Cloud sites,FALSE
+PermissionsBypassMFAForUiLogins,Waive Multi-Factor Authentication for Exempt Users,TRUE
+PermissionsCallCoachingUser,Use Conversation Insights for Sales,FALSE
+PermissionsCallExplorer,Einstein Question and Answer for ECI Calls,FALSE
+PermissionsCampaignInfluence2,Campaign Influence,FALSE
+PermissionsCanAccessCE,Access Conversation Entries,FALSE
+PermissionsCanApproveFeedPost,Can Approve Feed Post and Comment,FALSE
+PermissionsCanApproveUninstalledApps,Approve Uninstalled Connected Apps,FALSE
+PermissionsCanDoActAsUser,Act As User,TRUE
+PermissionsCanEditDataPrepRecipe,Edit Dataset Recipes,FALSE
+PermissionsCanEditPrompts,Design and Deliver In-App Guidance,FALSE
+PermissionsCanInitiateMessagingSessions,Initiate Messaging Sessions,FALSE
+PermissionsCanInsertFeedSystemFields,Insert System Field Values for Chatter Feeds,FALSE
+PermissionsCanManageMaps,Manage CRM Analytics Custom Maps,FALSE
+PermissionsCanMarketingUserDebugFlow,Can Marketing User Debug Marketing Flows,FALSE
+PermissionsCanRunAnalysis,Can Run Einstein Discovery for Reports,FALSE
+PermissionsCanSendInitialSMSToIndividual,Send Initial SMS Message to Individual,FALSE
+PermissionsCanTranslateScrt2Conversation,Translate Enhanced Conversations,FALSE
+PermissionsCanUpdateEmailMessage,Update Email Messages,FALSE
+PermissionsCanUseNewDashboardBuilder,Drag-and-Drop Dashboard Builder,FALSE
+PermissionsCanVerifyComment,Verify Answers to Chatter Questions,FALSE
+PermissionsCanViewDataPrepRecipe,Recipes View Only,FALSE
+PermissionsCaptureAndReversePayments,Capture and Reverse Payments,FALSE
+PermissionsCareManagementUserAccess,Enable the Integrated Care Management User Access in a Salesforce org.,FALSE
+PermissionsCarePlansAccess,Allows internal org users to access Care Plans objects and features.,FALSE
+PermissionsCaseReferralAccess,Allows internal org users to access referral feature.,FALSE
+PermissionsCCMCommunityAccess,Allows community users to access Composable Case Management objects and features.,FALSE
+PermissionsCCUserHasBillingAccount,Manage Energy & Utilities Billing Accounts for Experience Cloud,FALSE
+PermissionsCCUserHasEAndUProgramAccess,EU Experience Cloud User Program Access,FALSE
+PermissionsCCUserHasEUCore,Manage Energy & Utilities Objects for Experience Cloud,FALSE
+PermissionsCdcReportingCreateReports,Allow access to creating and editing reports in Data Cloud Reporting,FALSE
+PermissionsCdcReportingManageFolders,Allow access to managing folders in Data Cloud Reporting,FALSE
+PermissionsCdcReportingViewReports,Allow access to viewing reports in Data Cloud Reporting,FALSE
+PermissionsChainOfCustodyUser,Manage Chain Of Custody Features,FALSE
+PermissionsChangeDashboardColors,Change Dashboard Colors,FALSE
+PermissionsChatterComposeUiCodesnippet,Allow Inclusion of Code Snippets from UI,FALSE
+PermissionsChatterEditOwnPost,Edit My Own Posts,FALSE
+PermissionsChatterEditOwnRecordPost,Edit Posts on Records I Own,FALSE
+PermissionsChatterFileLink,Create Public Links,FALSE
+PermissionsChatterInternalUser,Chatter Internal User,FALSE
+PermissionsChatterInviteExternalUsers,Invite Customers To Chatter,FALSE
+PermissionsChatterOwnGroups,Create and Own New Chatter Groups,FALSE
+PermissionsCIPartnerIntegrationUser,Conversation Insights Partner Integration User,FALSE
+PermissionsClauseDesigner,Allows clause designers to create and manage clauses,FALSE
+PermissionsClauseDEUser,Allows users to use clauses in Digital Experience sites,FALSE
+PermissionsClauseUser,Allows users to use clauses within documents,FALSE
+PermissionsClientSecretRotation,Allow consumer key and secret rotation,TRUE
+PermissionsCloseConversations,Close Conversation Threads,FALSE
+PermissionsCMSECEAuthoringAccess,Migrate Enablement Content,FALSE
+PermissionsCodeBuilderUser,Code Builder User,FALSE
+PermissionsCombAuthAndCapPayments,Allow Sale Payments,FALSE
+PermissionsCommerceTaxApiUser,Tax Api User,FALSE
+PermissionsComplaintsManagementAccess,Provides access to Complaints Management features and objects.,FALSE
+PermissionsCompleteChgRiskAssmt,Complete Change Risk Assessments,FALSE
+PermissionsConfigCompliantDataSharing,Configure Compliant Data Sharing,FALSE
+PermissionsConfigCustomRecs,Configure Custom Recommendations,FALSE
+PermissionsConfigureCCTarget,Allow user to configure communication capping activation target.,FALSE
+PermissionsConfigureCommunicationCapping,Allow user to configure communication capping.,FALSE
+PermissionsConfigureDataspaceScope,Configure Dataspace Scope,FALSE
+PermissionsConfigureLiveMessage,Configure Messaging,FALSE
+PermissionsConnectOrgToEnvironmentHub,Connect Organization to Environment Hub,TRUE
+PermissionsConsentApiUpdate,Update Consent Preferences Using REST API,TRUE
+PermissionsContactInspectorUser,Access Contact Intelligence View in Partner Sites,FALSE
+PermissionsContentAdministrator,Manage Salesforce CRM Content,FALSE
+PermissionsContentHubUser,Files Connect Cloud,FALSE
+PermissionsContentWorkspaces,Access Libraries,FALSE
+PermissionsContextServiceAdmin,Context Service Admin user.,FALSE
+PermissionsContextServiceEmbedAdmin,Context Service Embed Admin user.,FALSE
+PermissionsContextServiceRuntime,Context Service Run time user.,FALSE
+PermissionsContractorHasEUProgramAccess,Contractor Program Access,FALSE
+PermissionsContractorHasWorkReportAccess,Manage Contractor Work Report,FALSE
+PermissionsConvertLeads,Convert Leads,FALSE
+PermissionsCoordinateClinicalTrials,Coordinate clinical trial tasks like candidate outreach programs.,FALSE
+PermissionsCoordinateClnclTrialExprcUsr,Coordinate clinical trial tasks like candidate outreach programs as an Experience Cloud user.,FALSE
+PermissionsCosellAuthSetupUser,Establish an Approved PRM External Integration,FALSE
+PermissionsCosellExportUser,Export Vendor Records to an Authorized Partner Org,FALSE
+PermissionsCreateAuditFields,Set Audit Fields upon Record Creation,FALSE
+PermissionsCreateClosePlan,Allow access to Einstein Close Plan in Einstein Copilot,FALSE
+PermissionsCreateCustomizeDashboards,Create and Customize Dashboards,FALSE
+PermissionsCreateCustomizeFilters,Create and Customize List Views,FALSE
+PermissionsCreateCustomizeReports,Create and Customize Reports,FALSE
+PermissionsCreateDashboardFolders,Create Dashboard Folders,FALSE
+PermissionsCreateDPEDefinitionWithDerivedFields,Create DPE Definition With Derived Fields,FALSE
+PermissionsCreateEditNonSetupFlow,Create or Edit Flows,FALSE
+PermissionsCreateLtngTempFolder,Create Folders for Lightning Email Templates,FALSE
+PermissionsCreateLtngTempInPub,Manage Public Lightning Email Templates,FALSE
+PermissionsCreateModActTrigNonSetupFlow,Create or Modify Activation-Triggered Flows,FALSE
+PermissionsCreateModAutEvtNonSetupFlow,Create or Modify Automation Event-Triggered Flows,FALSE
+PermissionsCreateModDGTrigNonSetupFlow,Create or Modify Flows with Data Graph Event Triggers,FALSE
+PermissionsCreateModFormTrigNonSetupFlow,Create or Modify Form-Triggered Flows,FALSE
+PermissionsCreateModSgmtTrigNonSetupFlow,Create or Modify Segment-Triggered Flows,FALSE
+PermissionsCreateMultiforce,Create AppExchange Packages,TRUE
+PermissionsCreatePackaging,Create AppExchange Packages,TRUE
+PermissionsCreateReportFolders,Create Report Folders,FALSE
+PermissionsCreateReportInLightning,Report Builder (Lightning Experience),FALSE
+PermissionsCreateTopics,Create Topics,FALSE
+PermissionsCreateUpdateSDDDataset,Create and Update Einstein Discovery Datasets,FALSE
+PermissionsCreateUpdateSDDStory,Create and Update Einstein Discovery Models,FALSE
+PermissionsCreateWorkBadgeDefinition,Create custom Badge Definitions,FALSE
+PermissionsCreateWorkspaces,Create Libraries,FALSE
+PermissionsCreditMemoAPIUser,Credit Memo API User,FALSE
+PermissionsCustomAppsOnFSMobile,Custom Applications for Field Service Mobile,FALSE
+PermissionsCustomizeApplication,Customize Application,TRUE
+PermissionsCustomMobileAppsAccess,Access Custom Mobile Apps,FALSE
+PermissionsCustomSidebarOnAllPages,Show Custom Sidebar On All Pages,FALSE
+PermissionsDataExport,Weekly Data Export,TRUE
+PermissionsDataPipelinesAppConsumer,Permission to access Data Pipelines license,FALSE
+PermissionsDebugApex,Debug Apex,TRUE
+PermissionsDecimalQuantityDesigntime,Decimal Quantity Design time Access,FALSE
+PermissionsDecimalQuantityRuntime,Decimal Quantity Runtime Access,FALSE
+PermissionsDecisionTableExecUserAccess,Run Decision Tables,FALSE
+PermissionsDelegatedPortalUserAdmin,Delegated External User Administrator,TRUE
+PermissionsDelegatedTwoFactor,Manage MFA in User Interface,FALSE
+PermissionsDeleteActivatedContract,Delete Activated Contracts,FALSE
+PermissionsDeleteCrMemoAndInvoice,Delete Credit Memo and Invoice,FALSE
+PermissionsDeleteDraftAndCanceledInvoices,Allow Draft and Canceled Invoice Deletion,FALSE
+PermissionsDeleteNonSetupFlow,Delete Flows,TRUE
+PermissionsDeleteRevenueRecords,Allow Revenue Records Deletion,FALSE
+PermissionsDeleteTopics,Delete Topics,FALSE
+PermissionsDesignContextRule,Manage Context Rules,FALSE
+PermissionsDfoAdminUser,System Administrator access for DRO,FALSE
+PermissionsDFODesignerUser,Allows user to gain Fulfillment Designer level access to DRO,FALSE
+PermissionsDFOManagerOperatorUser,Allows user to gain Fulfillment Manager or Fulfillment Operator level access to DRO,FALSE
+PermissionsDigitalAgentUser,Use Custom Agents,FALSE
+PermissionsDigitalLendingAdminUser,Digital Lending Admin User,FALSE
+PermissionsDigitalLendingEditReadOnly,Digital Lending Edit Read Only Party Related Records,FALSE
+PermissionsDigitalLendingIndiaAdminUser,Digital Lending India Admin User,FALSE
+PermissionsDigitalLendingUser,Digital Lending User,FALSE
+PermissionsDigitalLendingWorkbench,Digital Lending Workbench,FALSE
+PermissionsDisbursementUserAccess,Grant users access to Benefit Disbursement features.,FALSE
+PermissionsDistributeFromPersWksp,Create Content Deliveries,FALSE
+PermissionsDocGenDesigner,Enables Designers to create Document Templates.,FALSE
+PermissionsDocGenRuntimeCCUser,Enables Customers and Partners to generate documents via communities.,FALSE
+PermissionsDocGenRuntimeUser,Enables Business users to generate documents.,FALSE
+PermissionsDocumentAutomationUserAccess,User license to access IntelligentDocumentAutomation in Financial Services Cloud.,FALSE
+PermissionsDocumentChecklistUserAccess,User license to access the Document Checklist features.,FALSE
+PermissionsDocumentWorkspaceCmtyAccess,Permission to access Intelligent Document Workspace for community users,FALSE
+PermissionsDocumentWorkspaceUserAccess,Permission to access Intelligent Document Workspace,FALSE
+PermissionsDownloadPackageVersionZips,Download Package Version Zip Files,TRUE
+PermissionsDROOrderSubmitInitiateUser,Submit Transactions User,FALSE
+PermissionsDynamicCommonOrchestratorUser,Dynamic Common Orchestrator User,FALSE
+PermissionsEditAccountScoreFields,View Account Scores,FALSE
+PermissionsEditActivatedOrders,Edit Activated Orders,FALSE
+PermissionsEditBillingInfo,Manage Billing,FALSE
+PermissionsEditBrandTemplates,Manage Letterheads,FALSE
+PermissionsEditCaseComments,Edit Case Comments,FALSE
+PermissionsEditEvent,Edit Events,FALSE
+PermissionsEditHtmlTemplates,Edit HTML Templates,FALSE
+PermissionsEditKnowledge,Manage Articles,FALSE
+PermissionsEditMyDashboards,Edit My Dashboards,FALSE
+PermissionsEditMyReports,Edit My Reports,FALSE
+PermissionsEditOppLineItemUnitPrice,Edit Opportunity Product Sales Price,FALSE
+PermissionsEditPublicDocuments,Manage Public Documents,FALSE
+PermissionsEditPublicFilters,Manage Public List Views,FALSE
+PermissionsEditPublicTemplates,Manage Public Classic Email Templates,FALSE
+PermissionsEditReadonlyFields,Edit Read Only Fields,TRUE
+PermissionsEditRepricing,Edit Repricing Information,FALSE
+PermissionsEditTask,Edit Tasks,FALSE
+PermissionsEditTopics,Edit Topics,FALSE
+PermissionsEditTranslation,Article Translation - Edit,FALSE
+PermissionsEGPTSalesSummariesUser,Einstein Sales Summaries User,FALSE
+PermissionsEinsteinAgentPlatformBuilder,Manage AI Agents,TRUE
+PermissionsEinsteinCopilotBuilder,Manage Agentforce Default Agent,TRUE
+PermissionsEinsteinCopilotUser,Use Agentforce Default Agent,FALSE
+PermissionsEinsteinGPTSalesEmailsUser,Use Einstein Sales Emails,FALSE
+PermissionsEinsteinSalesCoachAgent,Agentforce Sales Coach,FALSE
+PermissionsEinsteinSalesRepFdbkUser,Use Einstein Coach,FALSE
+PermissionsEinsteinSdrAAPerm,Enables users to assign EinsteinSdr Automated Action rule.,FALSE
+PermissionsEinsteinSdrAccessPerm,Use Agentforce SDR Agent App,FALSE
+PermissionsEinsteinSdrConfigPerm,Configure Agentforce SDR Agent App,FALSE
+PermissionsEinsteinSdrWorkerPerm,Engage Prospects as an Agentforce Sales Development Agent,FALSE
+PermissionsEmailAdministration,Email Administration,FALSE
+PermissionsEmailMass,Mass Email,FALSE
+PermissionsEmailSingle,Send Email,FALSE
+PermissionsEmailTemplateManagement,Manage Email Templates,FALSE
+PermissionsEmbeddedMessagingAgent,Messaging for In-App and Web Agent,FALSE
+PermissionsEmployeeEntitiesAccess,Manage Employees,FALSE
+PermissionsEmployeeExperience,Access Employee Experience,FALSE
+PermissionsEnableBCTransactionPolling,Enable blockchain transaction polling API,FALSE
+PermissionsEnableCommunityAppLauncher,Show App Launcher in Experience Cloud Sites,FALSE
+PermissionsEnableIPFSUpload,Allow blockchain data upload,FALSE
+PermissionsEnableNotifications,Send Outbound Messages,FALSE
+PermissionsEngagementConfigUser,Engagement Config User,FALSE
+PermissionsEnhancedSalesMobileExp,Salesforce Mobile App: Native Seller Experience,FALSE
+PermissionsEntityAccessHealthCloudCommunity,Additional Objects for Health Cloud Features in Experience Cloud,FALSE
+PermissionsEventLogReadAccess,View Event Log Object Data,TRUE
+PermissionsExecutePromptTemplates,Execute Prompt Templates,FALSE
+PermissionsExplainabilityCmtyAccess,Provides site users with access to Decision Explainers features and APIs.,FALSE
+PermissionsExplainabilityUserAccess,Provides internal Org users with access to Decision Explainer features and APIs.,FALSE
+PermissionsExportReport,Export Reports,FALSE
+PermissionsExternalClientAppAdmin,"View all External Client Apps, view their settings, and edit their policies",TRUE
+PermissionsExternalClientAppDeveloper,"Create, edit, and delete External Client Apps",TRUE
+PermissionsExternalClientAppViewer,View all External Client Apps,FALSE
+PermissionsFeedPinning,Pin Posts in Feeds,FALSE
+PermissionsFHIRCmtyAccess,Use objects in the Clinical data model via Experience Cloud sites,FALSE
+PermissionsFieldMappingUser,Field Mapping Configuration User,FALSE
+PermissionsFieldServiceAccess,Field Service Standard,FALSE
+PermissionsFieldServiceCopilotActions,Access Agent Topics and Actions for Field Service,FALSE
+PermissionsFieldServiceDispatcher,Field Service Dispatcher,FALSE
+PermissionsFieldServiceLastMile,Field Service Appointment Assistant,FALSE
+PermissionsFieldServiceMobileApp,Field Service Mobile,FALSE
+PermissionsFieldServiceScheduling,Field Service Scheduling,FALSE
+PermissionsFieldServiceVoiceToForm,Access Field Service Data Capture Voice to Form (Beta),FALSE
+PermissionsFieldServiceVoiceToRecordEdit,Access Field Service Voice to Record Edit,FALSE
+PermissionsFinancialServices2UserAccess,Access Actionable Relationship Center,FALSE
+PermissionsFindPastCollaborators,Allow access to Find Past Collaborators in Einstein Copilot.,FALSE
+PermissionsFlowUFLRequired,Require Flow User Feature License,FALSE
+PermissionsForceTwoFactor,Multi-Factor Authentication for User Interface Logins,TRUE
+PermissionsFreezeUsers,Freeze Users,TRUE
+PermissionsFSCAlertFrameworkUserAccess,Access Record Alerts,FALSE
+PermissionsFSCArcGraphCommunityUser,Access Actionable Relationship Center for partner users,FALSE
+PermissionsFSCB2BUserAccess,Grants access to B2B features,FALSE
+PermissionsFSCComprehensiveUserAccess,User license to access Lightning components and features delivered in Financial Services Cloud.,FALSE
+PermissionsFSCInsClaimMgmtPlatformUser,Insurance Claim Management Platform User,FALSE
+PermissionsFSCInsPolicyAdminPlatformUser,Insurance Policy Administration Platform User,FALSE
+PermissionsFSCInsuranceCmpCmtyAccess,Access Insurance Lightning Components,FALSE
+PermissionsFSCInsuranceCmpLexOnlyAccess,Access Insurance Lightning Components,FALSE
+PermissionsFSCInsurancePlatformUser,Access Insurance Objects,FALSE
+PermissionsFscPlansAndGoalsUser,Plans and Goals User,FALSE
+PermissionsGetConversationTranscripts,Get Conversation Transcripts,FALSE
+PermissionsGetProductPricing,Allow access to Get Product Pricing in Einstein Copilot,FALSE
+PermissionsGetRecordDetailsUserAccess,Get Record Details,FALSE
+PermissionsGetSmartDataDiscovery,View Einstein Discovery Recommendations,FALSE
+PermissionsGetSmartDataDiscoveryExternal,View Einstein Discovery Recommendations Via Connect API,FALSE
+PermissionsGiveRecognitionBadge,Give Recognition Badges in Experience Builder Sites,FALSE
+PermissionsGlobalCbPQueryAccess,Global Controlled-by-Parent Query Access,FALSE
+PermissionsGovernNetworks,Manage Experiences,FALSE
+PermissionsGroupMembershipCmtyUsr,Group Membership Experience Cloud User,FALSE
+PermissionsGroupMembershipPsl,Group Membership,FALSE
+PermissionsHasUnlimitedErbScoringRequests,User Has Unlimited Erb Model Scoring,FALSE
+PermissionsHasUnlimitedNBAExecutions,User Has Unlimited Next Best Action Strategy Executions,FALSE
+PermissionsHcAdvancedTherapyUser,Manage Advanced Therapy Orchestration features,FALSE
+PermissionsHeadlessCMSAccess,Enable Salesforce CMS Integration,FALSE
+PermissionsHeadlessPublishNudges,Headless Publish Nudges User,FALSE
+PermissionsHealthAgent,Health Assistive Agent,FALSE
+PermissionsHealthCloudStarter,Health Cloud Starter,FALSE
+PermissionsHideReadByList,Hide the Seen By List,FALSE
+PermissionsHydratePromptTemplateIA,Hydrate Prompt Template IA,FALSE
+PermissionsIcmCmtyAccess,Enables the use of objects in the Integrated Care Management data model by Experience cloud site users.,FALSE
+PermissionsIdentityConnect,Use Identity Connect,TRUE
+PermissionsIdentityEnabled,Use Identity Features,FALSE
+PermissionsIdentityVerificationUserAccess,Permission to access Identity Verification,FALSE
+PermissionsImportCustomObjects,Import Custom Objects,FALSE
+PermissionsImportLeads,Import Leads,FALSE
+PermissionsImportPersonal,Import Personal Contacts,FALSE
+PermissionsInboundMigrationToolsUser,Deploy Change Sets,FALSE
+PermissionsIndustriesEpcNextPilot,Industries Epc Next Pilot,FALSE
+PermissionsIndustryMilestonePlatformUser,Access Life Events or Business Milestones Component,FALSE
+PermissionsInsightsAppAdmin,Manage CRM Analytics,FALSE
+PermissionsInsightsAppDashboardEditor,Create and Edit CRM Analytics Dashboards,FALSE
+PermissionsInsightsAppEltEditor,Edit CRM Analytics Dataflows,FALSE
+PermissionsInsightsAppUploadUser,Upload External Data to CRM Analytics,FALSE
+PermissionsInsightsAppUser,Use CRM Analytics,FALSE
+PermissionsInsightsCreateApplication,Create CRM Analytics Apps,FALSE
+PermissionsInsightsIntelAppUser,Use Intelligent Apps,FALSE
+PermissionsInstallMultiforce,Download AppExchange Packages,TRUE
+PermissionsInstallPackaging,Download AppExchange Packages,TRUE
+PermissionsInsuranceGroupBenefitsUser,Insurance Group Benefits User,FALSE
+PermissionsInteractionCalcAdminPerm,Grant administrators access to Industries Interaction Calculation features.,FALSE
+PermissionsInteractionCalcUserPerm,Grant users access to Industries Interaction Calculation features.,FALSE
+PermissionsInteractionObjStateDefUserPerm,Grant users access to Industries Interaction Object State Definition features.,FALSE
+PermissionsInterestTaggingUserAccess,Access Interest Tags for Financial Services Cloud.,FALSE
+PermissionsInvoiceOrErrorRecoveryAPI,Invoice or Recovery API,FALSE
+PermissionsInvoiceSchedulerUser,Invoice Scheduler User,FALSE
+PermissionsIsotopeAccess,Salesforce Anywhere on Mobile,FALSE
+PermissionsIsotopeCToCUser,Salesforce Anywhere Integration Access,FALSE
+PermissionsIsotopeLEX,Salesforce Anywhere in Lightning Experience,FALSE
+PermissionsIsSsoEnabled,Is Single Sign-On Enabled,FALSE
+PermissionsKycPlatformUser,Identity Verification and Screening User,FALSE
+PermissionsLeadInspectorUser,Access Lead Intelligence View in Partner Sites,FALSE
+PermissionsLeadScoreResultPublisher,Publish Einstein Lead Scoring results,FALSE
+PermissionsLeadScoreUser,Use Einstein Lead Scoring,FALSE
+PermissionsLearningManager,Manage Learning,FALSE
+PermissionsLifecycleManagementAPIUser,Access Customer Asset Lifecycle Management APIs,FALSE
+PermissionsLightningConsoleAllowedForUser,Lightning Console User,FALSE
+PermissionsLightningExperienceUser,Lightning Experience User,FALSE
+PermissionsLightningOnFSMobile,Lightning SDK for Field Service Mobile,FALSE
+PermissionsLightningSchedulerUserAccess,Let a user be included in appointments in Salesforce Scheduler.,FALSE
+PermissionsListEmailSend,Allow sending of List Emails,FALSE
+PermissionsLiveMessageAgent,Messaging Agent,FALSE
+PermissionsLMEndMessagingSessionUserPerm,End Messaging Session,FALSE
+PermissionsLMOutboundMessagingUserPerm,Agent Initiated Outbound Messaging,FALSE
+PermissionsLobbyManagementUserAccess,Let greeters access the Lobby Management tab.,FALSE
+PermissionsLPICommunityAccess,Grant community users access to LPI features.,FALSE
+PermissionsLtngPromoReserved01UserPerm,Remain in Salesforce Classic,FALSE
+PermissionsMakePayments,Make Payments,FALSE
+PermissionsManageAccessPolicies,Manage Access Policies,TRUE
+PermissionsManageAgentforceServiceAgent,Manage Agentforce Service Agents,TRUE
+PermissionsManageAnalyticSnapshots,Manage Reporting Snapshots,FALSE
+PermissionsManageAuthProviders,Manage Auth. Providers,TRUE
+PermissionsManageBusinessHourHolidays,Manage Business Hours Holidays,FALSE
+PermissionsManageBusinessUnit,View/Create/Update(Restricted) Business Unit,FALSE
+PermissionsManageC2CHighVolumePriming,Manage Cross-Cloud High-Volume Priming,FALSE
+PermissionsManageC360AConnections,Connect Org to Data Cloud,FALSE
+PermissionsManageCallCenters,Manage Call Centers,FALSE
+PermissionsManageCampaigns,Manage Campaigns,FALSE
+PermissionsManageCases,Manage Cases,FALSE
+PermissionsManageCategories,Manage Categories,FALSE
+PermissionsManageCdpMlModels,Allow users to manage models in Einstein Studio,FALSE
+PermissionsManageCertificates,Manage Certificates,TRUE
+PermissionsManageCertificatesExpiration,Receive Certificate Expiration Notifications,FALSE
+PermissionsManageChatterMessages,Manage Chatter Messages and Direct Messages,FALSE
+PermissionsManageClinicalDataModel,Provides access to Clinical Data Model entities for LifeSciences Users,FALSE
+PermissionsManageClinicalTrials,Design and run clinical trials.,FALSE
+PermissionsManageCMS,Create CMS Workspaces and Channels,FALSE
+PermissionsManageContentLinks,Manage Content Links,FALSE
+PermissionsManageContentPermissions,Manage Content Permissions,FALSE
+PermissionsManageContentProperties,Manage Content Properties,FALSE
+PermissionsManageContentTaxonomy,Manage Content Taxonomy,FALSE
+PermissionsManageContentTypes,Manage record types and layouts for Files,FALSE
+PermissionsManageConvMiningReports,View and generate Einstein Conversation Mining reports,FALSE
+PermissionsManageCssUsers,Manage Customer Users,FALSE
+PermissionsManageCustomDomains,Manage Custom Domains,TRUE
+PermissionsManageCustomPermissions,Manage Custom Permissions,TRUE
+PermissionsManageCustomReportTypes,Manage Custom Report Types,FALSE
+PermissionsManageDashbdsInPubFolders,Manage Dashboards in Public Folders,FALSE
+PermissionsManageDataCategories,Manage Data Categories,FALSE
+PermissionsManageDataIntegrations,Manage Data Integrations,TRUE
+PermissionsManageDataMaskPolicies,Manage Data Mask Policies,TRUE
+PermissionsManageDataProcessingEngine,Allow users to access the features of Data Processing Engine to transform data that is available in your Salesforce org.,TRUE
+PermissionsManageDataspaceScope,Manage Dataspace Scope,FALSE
+PermissionsManageDevSandboxes,Manage Dev Sandboxes,TRUE
+PermissionsManageDynamicDashboards,Manage Dynamic Dashboards,FALSE
+PermissionsManageEinsteinSalesCoach,Configure Agentforce Sales Coach,FALSE
+PermissionsManageEmailClientConfig,Manage Email Client Configurations,FALSE
+PermissionsManageEmailContent,Manage Email Content,FALSE
+PermissionsManageEmailMessagingSetup,Manage Email Messaging Setup,FALSE
+PermissionsManageEncryptionKeys,Manage Encryption Keys,TRUE
+PermissionsManageEntitlements,Manage Entitlements,FALSE
+PermissionsManageExchangeConfig,Manage Lightning Sync,FALSE
+PermissionsManageExternalConnections,Allow user to modify Private Connections,TRUE
+PermissionsManageFilesAndAttachments,Manage Policies' Files And Attachments,FALSE
+PermissionsManageForecastingCustomData,Manage Forecasts Custom Data,FALSE
+PermissionsManageGlobalPrivacyCenterVO,Manage Cross Cloud Privacy Center,FALSE
+PermissionsManageHcProviderRelMgmt,Manage Health Cloud Provider Relationship Management,FALSE
+PermissionsManageHealthCheck,Manage Health Check,TRUE
+PermissionsManageHealthCloud,Manage Health Cloud,FALSE
+PermissionsManageHealthCloudFinancialData,Manage Health Cloud Financial Data,FALSE
+PermissionsManageHerokuAppLink,Manage Heroku AppLink,FALSE
+PermissionsManageHubConnections,Connect Org to Customer 360 Data Manager,TRUE
+PermissionsManageIndustriesVisit,Manage Industries Visit,FALSE
+PermissionsManageIntegrationConnections,Manage Integration Connections,TRUE
+PermissionsManageIntelligenceApp,Manage Commerce Intelligence App,FALSE
+PermissionsManageInteraction,Manage Flow,FALSE
+PermissionsManageInternalUsers,Manage Internal Users,TRUE
+PermissionsManageIpAddresses,Manage IP Addresses,TRUE
+PermissionsManageKnowledge,Manage Salesforce Knowledge,FALSE
+PermissionsManageKnowledgeImportExport,Manage Knowledge Article Import/Export,FALSE
+PermissionsManageLeads,Manage Leads,FALSE
+PermissionsManageLearningReporting,Manage Learning Reporting,FALSE
+PermissionsManageLoginAccessPolicies,Manage Login Access Policies,TRUE
+PermissionsManageMobile,Manage Mobile Configurations,FALSE
+PermissionsManageMobileAppSecurity,Manage Enhanced Mobile App Security,TRUE
+PermissionsManageMyExternalUsers,Manage External Users (Limited),FALSE
+PermissionsManageNamedCredentials,Allows users to modify Named Credentials and External Credentials,TRUE
+PermissionsManageNetworks,Create and Set Up Experiences,TRUE
+PermissionsManageOCIRecords,Manage Omnichannel Inventory Records,FALSE
+PermissionsManageOrchestrationRuns,Manage Orchestration Runs,FALSE
+PermissionsManageOrchInstsAndWorkItems,Manage Orchestration Runs and Work Items,FALSE
+PermissionsManageOutcomeManagement,Manage Outcomes,FALSE
+PermissionsManagePartners,Manage External Users,FALSE
+PermissionsManagePasswordPolicies,Manage Password Policies,TRUE
+PermissionsManagePatientProgramOutcomes,Manage Patient Program Outcomes,FALSE
+PermissionsManagePersonalOrg,Manage Personal Org,FALSE
+PermissionsManagePersonalOrgTasks,Manage Personal Org Tasks,FALSE
+PermissionsManagePharmacyBenefitsVerf,Gives users access to verify and reverify pharmacy benefits.,FALSE
+PermissionsManagePreferenceCenter,Manage Preference Manager,FALSE
+PermissionsManageProductCatalog,Manage Product Catalog,FALSE
+PermissionsManageProductDiscovery,Manage Product Discovery,FALSE
+PermissionsManageProductIndexAndSearch,"Create and delete indexes for Product Catalog Management, and configure product browsing options.",FALSE
+PermissionsManageProfilesPermissionsets,Manage Profiles and Permission Sets,TRUE
+PermissionsManageProgramManagement,Advanced Program Management,FALSE
+PermissionsManagePromptTemplates,Manage Prompt Templates,FALSE
+PermissionsManagePropositions,Manage Next Best Action Recommendations,FALSE
+PermissionsManageProviderSearch,Manage Provider Search,FALSE
+PermissionsManagePvtRptsAndDashbds,Manage All Private Reports and Dashboards,FALSE
+PermissionsManageQuotas,Manage Quotas,FALSE
+PermissionsManageRecommendationStrategies,Manage Next Best Action Strategies,FALSE
+PermissionsManageReleaseUpdates,Manage Release Updates,FALSE
+PermissionsManageRemoteAccess,Manage Connected Apps,TRUE
+PermissionsManageReportsInPubFolders,Manage Reports in Public Folders,FALSE
+PermissionsManageRoles,Manage Roles,TRUE
+PermissionsManageSALifecycle,Manage Service Appointment Lifecycle,FALSE
+PermissionsManageSandboxes,Manage Sandboxes,TRUE
+PermissionsManageSearchPromotionRules,Manage Promoted Search Terms,FALSE
+PermissionsManageSecurityCommandCenter,Manage Security Center,TRUE
+PermissionsManageSessionPermissionSets,Manage Session Permission Set Activations,TRUE
+PermissionsManageSharing,Manage Sharing,TRUE
+PermissionsManageSiteManagement,Manage Site Management,TRUE
+PermissionsManageSiteProfile,Manage Site and Investigator Profile,TRUE
+PermissionsManageSmartDataDiscovery,Manage Einstein Discovery,FALSE
+PermissionsManageSmartDataDiscoveryModel,Can Deploy and Manage Einstein Discovery predictions,FALSE
+PermissionsManageSocialDeterminant,Enable access to the Manage Social Determinants Data Model for Life Sciences users in a Salesforce org.,FALSE
+PermissionsManageSolutions,Manage Published Solutions,FALSE
+PermissionsManageStores,Manage Stores,FALSE
+PermissionsManageSubscriptions,Manage CRM Analytics Subscriptions,FALSE
+PermissionsManageSurveys,Manage Surveys,FALSE
+PermissionsManageSvcCatalog,Manage Service Catalog,FALSE
+PermissionsManageSynonyms,Manage Synonyms,FALSE
+PermissionsManageTemplatedApp,Manage CRM Analytics Templated Apps,FALSE
+PermissionsManageTrialMgmtRandomization,Manage Trial Management Randomization,FALSE
+PermissionsManageTrustMeasures,Manage Trust Measures,FALSE
+PermissionsManageTwoFactor,Manage MFA in API,TRUE
+PermissionsManageUnlistedGroups,Manage Unlisted Groups,FALSE
+PermissionsManageUsers,Manage Users,TRUE
+PermissionsMassInlineEdit,Mass Edits from Lists,FALSE
+PermissionsMaterialLineUser,Create Material Lines,FALSE
+PermissionsMCPMetadataApi,MCPMetadataApi,TRUE
+PermissionsMergeAndSplitGroups,Merge and Split Groups,FALSE
+PermissionsMergeTopics,Merge Topics,FALSE
+PermissionsMetadataStudioUser,Metadata studio User,FALSE
+PermissionsMicrobatching,Use Micro-Batching to Create Records,FALSE
+PermissionsMngBenVerfForAssistiveAgnt,Gives AI agents access to the objects and fields required to reverify benefits.,FALSE
+PermissionsMngFinancialAssistanceProgram,Access PSP Financial Assistance,FALSE
+PermissionsMobileAppSecurity,Enforce Enhanced Mobile App Security,FALSE
+PermissionsMobileMessagingAgent,Message on Mobile,FALSE
+PermissionsModerateChatter,Moderate Chatter,FALSE
+PermissionsModerateNetworkFeeds,Moderate Experience Cloud Site Feeds,FALSE
+PermissionsModerateNetworkFiles,Moderate Files in Experience Cloud Sites,FALSE
+PermissionsModerateNetworkMessages,Moderate Chatter Messages in Experience Cloud Sites,FALSE
+PermissionsModerateNetworkUsers,Moderate Experience Cloud Site Users,FALSE
+PermissionsModifyAccessAllowPolicies,Modify Allow Data Governance Policies,FALSE
+PermissionsModifyAccessDenyPolicies,Modify Deny Data Governance Policies,FALSE
+PermissionsModifyAllData,Modify All Data,TRUE
+PermissionsModifyAllDataGovClassif,Modify All Data Governance Classification Tags,FALSE
+PermissionsModifyAllDataGovClsfTax,Modify All Data Governance Classification Taxonomies,FALSE
+PermissionsModifyAllDataGovPolicies,Modify All Data Governance Policies,FALSE
+PermissionsModifyAllDataGovTagAssign,Modify All Data Governance Tag Assignments,FALSE
+PermissionsModifyAllDataGovTags,Modify All Data Governance Tags,FALSE
+PermissionsModifyAllDataGovTax,Modify All Data Governance Tag Taxonomies,FALSE
+PermissionsModifyAllPolicyCenterPolicies,Modify All Policy Center Policies,FALSE
+PermissionsModifyDataClassification,Modify Data Classification,FALSE
+PermissionsModifyMetadata,Modify Metadata Through Metadata API Functions,TRUE
+PermissionsMonitorLoginHistory,Monitor Login History,TRUE
+PermissionsMortgageUserAccess,User license to access Mortgage in Financial Services Cloud.,FALSE
+PermissionsMultiStepSchedulingUser,Manage Multi-Step Scheduling features,FALSE
+PermissionsNativeWebviewScrolling,Salesforce Mobile App: Native scrolling on webviews,FALSE
+PermissionsNewReportBuilder,Report Builder,FALSE
+PermissionsObligationAssignee,"Allows the obligation assignees to manage obligations within a parent object. For example, in the Contract object, monitor tasks and compliance status.",FALSE
+PermissionsObligationDEAssignee,"Allows the obligation assignees to manage obligations in a parent object on Digital Experience sites. For example, in the Contract object, monitor tasks and compliance status.",FALSE
+PermissionsObligationDEManager,"Allows obligation managers to create and define obligations in a parent object on Digital Experience sites. For example, in the Contract object, extract and define obligations, and assign obligations to an assignee.",FALSE
+PermissionsObligationDEUser,"Allows users to only view obligations in a parent object on Digital Experience sites. For example, Contract.",FALSE
+PermissionsObligationManager,"Allows obligation managers to create and define obligations in a parent object. For example, in the Contract object, extract and define obligations, and assign obligations to an assignee.",FALSE
+PermissionsObligationUser,Allows users to only view obligations.,FALSE
+PermissionsOmniAssistiveActionUser,OmniAssistiveActionUser,FALSE
+PermissionsOmnichannelInventoryBasic,Omnichannel Inventory Basic,FALSE
+PermissionsOmnichannelInventorySync,Omnichannel Inventory Sync,FALSE
+PermissionsOmniStudioDesigner,Enables admin/developer to create new OS/DR/VIP instances.,FALSE
+PermissionsOmniStudioRuntime,"Enables business users to execute OmniScripts, DRs, Cards, etc, in employee facing apps.",FALSE
+PermissionsOmniStudioRuntimeCC,"Enables consumers and partners  to execute OmniScripts, DRs, Cards through a Community or off platform.",FALSE
+PermissionsOmniSupervisorManageQueue,Manage Queue Memberships,FALSE
+PermissionsOpportunityScoreUser,Use Einstein Opportunity Scoring,FALSE
+PermissionsOptOutGeoLocationTracking,Exclude Technician from Geolocation Tracking,FALSE
+PermissionsOrderSubmitUser,Submit Transactions and Fulfilment User,FALSE
+PermissionsOrderToBSAPIUser,Access Order to Billing Schedule API,FALSE
+PermissionsOrderToInvoiceAPIUser,Access Order to Invoice API,FALSE
+PermissionsOrgPerformanceAccess,Org Performance Access,FALSE
+PermissionsOutboundMigrationToolsUser,Create and Upload Change Sets,FALSE
+PermissionsOverrideForecasts,Override Forecasts,FALSE
+PermissionsPackaging2,Create and Update Second-Generation Packages,TRUE
+PermissionsPackaging2Delete,Delete Second-Generation Packages,TRUE
+PermissionsPackaging2PromoteVersion,Promote a package version to released,TRUE
+PermissionsParticipateClinicalTrials,Let external users view and enroll in research studies.,FALSE
+PermissionsPasswordNeverExpires,Password Never Expires,TRUE
+PermissionsPaymentsAPIUser,Payments Api User,FALSE
+PermissionsPaymentSchedulerUser,Payments Scheduler User,FALSE
+PermissionsPerformanceAnalysisAccess,Performance Analysis Access,FALSE
+PermissionsPersonalizationDecisioningUser,Provides users access to the Personalization Decisions invocable action.,FALSE
+PermissionsPersonalizationIntelUser,Personalization Intelligence User,FALSE
+PermissionsPersonalizationPlatform,Access Personalization Platform,FALSE
+PermissionsPersonalizedFinanceUserAccess,Data Cloud FlexCards for Financial Services Cloud,FALSE
+PermissionsPipelineInspectorUser,Pipeline Inspection User,FALSE
+PermissionsPortalSuperUser,Portal Super User,FALSE
+PermissionsPreventClassicExperience,Hide Option to Switch to Salesforce Classic,FALSE
+PermissionsPreviewExperienceUser,Allow access to  Preview Experience,FALSE
+PermissionsPreviewTestSendEmail,Send Test Email,FALSE
+PermissionsPriceSheetConfiguration,Configure Price Sheets,FALSE
+PermissionsPricingRuleUser,Configure price rules,FALSE
+PermissionsPrismBackofficeUser,Prism Backoffice User,FALSE
+PermissionsPrismPlaygroundUser,Prism Playground User,FALSE
+PermissionsPrivacyDataAccess,Allow user to access privacy data,TRUE
+PermissionsPRMChannelMgmtConsoleUser,View Channel Management Console,FALSE
+PermissionsPrmEnhancedPortalUser,PRM Enhanced Portal User,FALSE
+PermissionsPrmExtIntPrtnrAdminUser,Set Up Partner Connect for a Partner Org,FALSE
+PermissionsProductAdmin,Product Admin,FALSE
+PermissionsProductCatalogApiAccess,View Product Catalog via API,FALSE
+PermissionsProductCatalogMgmtApiCCAccess,View Product Catalog via API for Customer Community User,FALSE
+PermissionsProductCatalogMgmtApiPCAccess,View Product Catalog via API for Partner Community User,FALSE
+PermissionsProductCatalogMgmtBaseCCUser,View Product Catalog for Customer Community User,FALSE
+PermissionsProductCatalogMgmtBasePCUser,View Product Catalog for Partner Community User,FALSE
+PermissionsProductConfigurationRuleAccess,Manage Configurator with Business Rules Engine,FALSE
+PermissionsProductDiscoveryUser,Allow access to Product Discovery,FALSE
+PermissionsProposeMajorIncidents,Propose Major Incidents,FALSE
+PermissionsProviderSearchUserAccess,Permission to access internal entities for provider search,FALSE
+PermissionsPublicSectorPlatformUserAccess,Grant users access to Public Sector features.,FALSE
+PermissionsPublishArticles,Publish Articles,FALSE
+PermissionsPublishMultiforce,Upload AppExchange Packages,FALSE
+PermissionsPublishPackaging,Upload AppExchange Packages,TRUE
+PermissionsPublishTranslation,Article Translation - Publish,FALSE
+PermissionsQrCodeGeneratorMobilePublisherPlayground,Mobile Publisher QR Code Generator Playground User,FALSE
+PermissionsQueryAllFiles,Query All Files,TRUE
+PermissionsQueryNonVetoedFiles,Query Non Vetoed Files,FALSE
+PermissionsQuipMetricsAccess,Quip Metrics,FALSE
+PermissionsQuipUserEngagementMetrics,Quip User Engagement Metrics,FALSE
+PermissionsQuoteToOrderUser,Create Orders from Quotes,FALSE
+PermissionsReadConfigurationItemInformation,Allows user to read CMDB associations details.,FALSE
+PermissionsReassignOrchestrationWorkItems,Reassign Orchestration Work Items,FALSE
+PermissionsRebookWithAgentforceFromDispatchConsole,Rebook with Agentforce from Dispatch Console,FALSE
+PermissionsRecommendedActions,Recommended Actions,FALSE
+PermissionsRecordAggregationAccess,Record Aggregation Access,FALSE
+PermissionsRecordVisibilityAPI,Enable RecordVisibility API,TRUE
+PermissionsRefundPayments,Refund Payments,FALSE
+PermissionsRemoveDirectMessageMembers,Remove People from Direct Messages,FALSE
+PermissionsReopenChangeRequests,Reopen Change Requests,FALSE
+PermissionsReopenProblems,Reopen Problems,FALSE
+PermissionsResetPasswords,Reset User Passwords and Unlock Users,TRUE
+PermissionsResolveChgRqstAssoc,Resolve Change Request Associations,FALSE
+PermissionsResolveIncAssoc,Resolve Incident Associations,FALSE
+PermissionsResolveProbAssoc,Resolve Problem Associations,FALSE
+PermissionsRespondToSocialInsuranceClaims,Respond to Social Insurance Claims,FALSE
+PermissionsRevenueIntelligenceUser,Revenue Intelligence User,FALSE
+PermissionsRevenueProductImportUser,Import Products Using Subscription Management Console,FALSE
+PermissionsReviewBuyingCommittee,Allow access to Review Buying Committee in Einstein Copilot,FALSE
+PermissionsReviewMyDay,Review My Day,FALSE
+PermissionsRunCatalogItemsOnBehalfOf,Run Catalog Items As User,FALSE
+PermissionsRunContextRule,Run Context Rules,FALSE
+PermissionsRunDecisionMatrix,Run Decision Matrices,FALSE
+PermissionsRunExpressionSet,Run Expression Sets,FALSE
+PermissionsRunFlow,Run Flows,TRUE
+PermissionsRunReports,Run Reports,FALSE
+PermissionsRunTrialMgmtRandomization,Run Trial Management Randomization,FALSE
+PermissionsSalesActionPlansUserAccess,Permission to access the Sales Action Plans feature,FALSE
+PermissionsSalesConsole,Sales Console,FALSE
+PermissionsSalesforceForecastingUser,Forecast on Any Business Model,FALSE
+PermissionsSalesforceIQInbox,Use Inbox,FALSE
+PermissionsSalesforceIQInternal,Allows the Cloud Integration User to perform SalesforceIQ internal operations,FALSE
+PermissionsSalesforceMeetingsUserPerm,Use Salesforce Meetings,FALSE
+PermissionsSalesInsightsUser,Sales Insights User,FALSE
+PermissionsSalesMeetingFollowUpEmail,Sales Meeting Follow-Up Emails,FALSE
+PermissionsSandboxTestingInCommunityApp,Test Sandboxes in Mobile Publisher for Experience Cloud,FALSE
+PermissionsSCEViewAllData,View Opportunity Scoring Model Factors,FALSE
+PermissionsScheduleJob,Schedule Dashboards,FALSE
+PermissionsScheduleReports,Schedule Reports,FALSE
+PermissionsScoringFrameworkAdmin,Scoring Framework Admin,FALSE
+PermissionsScoringFrameworkUser,Scoring Framework User,FALSE
+PermissionsSDCommunityAccess,Use objects in the Social Determinants data model via Experience Cloud sites,FALSE
+PermissionsSegmentIntelligenceUser,Segment Intelligence User,FALSE
+PermissionsSelectFilesFromSalesforce,Select Files from Salesforce,FALSE
+PermissionsSendAnnouncementEmails,Send announcement emails,FALSE
+PermissionsSendCustomNotifications,Send Custom Notifications,FALSE
+PermissionsSendEmail,Send Unified Messaging Email,FALSE
+PermissionsSendExternalEmailAvailable,Send Email through External Email Service,FALSE
+PermissionsSendMeetingRequest,Permission for Send Meeting Request.,FALSE
+PermissionsSendSitRequests,Send Stay-in-Touch Requests,FALSE
+PermissionsServiceECIUser,Use Conversation Insights for Service,FALSE
+PermissionsServiceExcellencePlatformUser,Service Excellence Platform User,FALSE
+PermissionsSessionScopeContext,Provides access to create session scope context.,FALSE
+PermissionsSetupAgentBuilder,Manage Agent for Setup,FALSE
+PermissionsSetupAgentUser,Access Agent for Setup,FALSE
+PermissionsShareFilesWithNetworks,Share Files with People in Experience Cloud sites,FALSE
+PermissionsShareInternalArticles,Share internal Knowledge articles externally,FALSE
+PermissionsShareSmartDataDiscoveryStory,Share Einstein Discovery Models,FALSE
+PermissionsShowCompanyNameAsUserBadge,Show Company Name as Site Role,FALSE
+PermissionsShowPreWorkBriefGA,Show Pre-Work Brief,FALSE
+PermissionsSimpleCsvDataImportUser,Basic Csv Data Import User Permission,FALSE
+PermissionsSkipIdentityConfirmation,Skip Device Activation at Login,TRUE
+PermissionsSlackCibUser,Financial Services Cloud for Slack User,FALSE
+PermissionsSlackFromTableau,Slack from Tableau Next,FALSE
+PermissionsSlackRecordChannels,Access Slack Record Channels,FALSE
+PermissionsSmartDataDiscoveryForCommunity,Smart Data Discovery for experience users,FALSE
+PermissionsSolutionImport,Import Solutions,FALSE
+PermissionsSonicConsumer,Use Data Pipeline Base,FALSE
+PermissionsStageManagementDesignUser,Stage Management Designer User,FALSE
+PermissionsStageManagementUser,Stage Management User,FALSE
+PermissionsStdAutomaticActivityCapture,Use Einstein Activity Capture Standard,FALSE
+PermissionsStoryOnDSWithPredicate,Ignore predicate when creating model from dataset,FALSE
+PermissionsSubmitForTranslation,Article Translation - Submit for Translation,FALSE
+PermissionsSubmitMacrosAllowed,Manage Macros Users Can't Undo,TRUE
+PermissionsSubscribeDashboardRolesGrps,Subscribe to Dashboards: Send to Groups and Roles,FALSE
+PermissionsSubscribeDashboardToOtherUsers,Subscribe to Dashboards: Add Recipients,FALSE
+PermissionsSubscribeReportRolesGrps,Subscribe to Reports: Send to Groups and Roles,FALSE
+PermissionsSubscribeReportsRunAsUser,Subscribe to Reports: Set Running User,FALSE
+PermissionsSubscribeReportToOtherUsers,Subscribe to Reports: Add Recipients,FALSE
+PermissionsSubscribeToLightningDashboards,Subscribe to Dashboards,FALSE
+PermissionsSubscribeToLightningReports,Subscribe to Reports,FALSE
+PermissionsSubscriptionManagementUser,Allow access to Subscription Management,FALSE
+PermissionsSubscrMgmtAmendDecreaseUser,Decrease Subscription Quantity,FALSE
+PermissionsSubscrMgmtAmendIncreaseUser,Increase Subscription Quantity,FALSE
+PermissionsSubscrMgmtCancelUser,Cancel Subscriptions,FALSE
+PermissionsSubscrMgmtOrderItemToAssetUser,Create Assets from Order Items,FALSE
+PermissionsSubscrMgmtOrderToAssetUser,Create Assets from Orders,FALSE
+PermissionsSubscrMgmtPymtSchedAutomation,Automate Payment Scheduling,FALSE
+PermissionsSubscrMgmtRefundAutomation,Automate Refunds,FALSE
+PermissionsSubscrMgmtRenewalUser,Renew Subscriptions,FALSE
+PermissionsSvcInnovationsEinsteinFeatr,Summarize record details using Einstein generative AI.,FALSE
+PermissionsTableauCreateDashboard,Access to create Tableau Next dashboards,FALSE
+PermissionsTableauCreateVisualization,Access to create Tableau Next visualizations,FALSE
+PermissionsTableauCreateWorkspace,Access to create Tableau Next workspaces,FALSE
+PermissionsTableauMetricCards,View Tableau Next Metrics,FALSE
+PermissionsTableauShareSnapshot,Tableau Next Share Snapshot,FALSE
+PermissionsTableauViewDashboard,Access to view Tableau Next dashboards,FALSE
+PermissionsTableauViewVisualization,Access to view Tableau Next visualizations,FALSE
+PermissionsTableauViewWorkspace,Access to view Tableau Next workspaces,FALSE
+PermissionsTerritoryOperations,Administer territory operations,FALSE
+PermissionsTraceXdsQueries,Access Tracer for External Data Sources,FALSE
+PermissionsTransactionalEmailSend,Send Non-Commercial Email,FALSE
+PermissionsTransactionSecurityExempt,Exempt from Transaction Security,TRUE
+PermissionsTransferAnyCase,Transfer Cases,TRUE
+PermissionsTransferAnyEntity,Transfer Record,TRUE
+PermissionsTransferAnyLead,Transfer Leads,TRUE
+PermissionsTriggerDataGovAutoTagging,Enable Data Governance Suggest Tags,FALSE
+PermissionsTwoFactorApi,Multi-Factor Authentication for API Logins,FALSE
+PermissionsUmaQueryCMSEmailContent,Query CMS Email Content,FALSE
+PermissionsUnifiedHealthScoringUser,"View and assign scores for accounts, contacts, and leads using the Unified Health Scoring feature.",FALSE
+PermissionsUnmeteredUserBasedAI,Unmetered User Based AI,FALSE
+PermissionsUpdateReportTypeReferences,Update Report Type References in Semantic Search,FALSE
+PermissionsUpdateWithInactiveOwner,Update Records with Inactive Owners,TRUE
+PermissionsUseAddOrderItemSummary,Add additional items to an order summary.,FALSE
+PermissionsUseAddOrderItemSummaryAPIs,Use Order Management Add Order Item Summary APIs,FALSE
+PermissionsUseAdvancedDeliveryEstimationAPI,Use Advanced Delivery Estimation Service APIs,FALSE
+PermissionsUseAssistantDialog,Instant Actionable Results,FALSE
+PermissionsUseBulkUpdtSalesAgrExprcCloud,Use Bulk Update for Sales Agreements in Experience Cloud,FALSE
+PermissionsUseCanCancelInProgressChange,Can cancel Order Management in-progress async calls.,FALSE
+PermissionsUseChannelPartnerInvExprcCloud,Use Channel Partner Inventory in Experience Cloud,FALSE
+PermissionsUseCompliantDataSharing,Use Compliant Data Sharing,FALSE
+PermissionsUseCreateCreditMemo,Create credit memos.,FALSE
+PermissionsUseCreateOrderSummary,Create order summaries by using APIs.,FALSE
+PermissionsUseCriteriaBasedSearchFilter,Use Criteria-Based Search and Filter,FALSE
+PermissionsUseDeliveryEstimation,Use Delivery Estimation Service,FALSE
+PermissionsUseDeliveryEstimationAPIs,Use Delivery Estimation Service APIs,FALSE
+PermissionsUseEinsteinSalesCoach,Use Agentforce Sales Coach,FALSE
+PermissionsUseEnsureFunds,Execute ensure funds.,FALSE
+PermissionsUseExpCloudCBSF,Use Criteria-Based Search and Filter for Experience Cloud,FALSE
+PermissionsUseFulfillmentAPIs,Use Order Management Fulfillment APIs,FALSE
+PermissionsUseInboxSchedulingOnBehalfOf,Inbox Scheduling Proxy User,FALSE
+PermissionsUseMySearch,Einstein Search,FALSE
+PermissionsUseOMAnalytics,Use Order Management Analytics,FALSE
+PermissionsUseOmnichannelInventoryAPIs,Use Omnichannel Inventory APIs,FALSE
+PermissionsUseOrderEntry,Use Order Entry,FALSE
+PermissionsUseOrderItemSummaryCancel,Cancel order item summaries.,FALSE
+PermissionsUseOrderItemSummaryReturn,Execute blind returns.,FALSE
+PermissionsUsePaymentCreditAPIs,Use Order Management Payment Credit APIs,FALSE
+PermissionsUseQuerySuggestions,Natural Language Search,FALSE
+PermissionsUserCanAccessNLPResult,View Natural Language Process Results,FALSE
+PermissionsUserCanDeployStore,Users can perform the deployment operation on a store.,FALSE
+PermissionsUserCanPerformNLPOperation,Manage Natural Language Process Results,FALSE
+PermissionsUseRegisterGuestBuyerAPI,Use Register Guest Buyer API,FALSE
+PermissionsUseRepricing,Use Repricing Objects and APIs,FALSE
+PermissionsUseReturnOrder,Use Order Management Return Order,FALSE
+PermissionsUseReturnOrderAPIs,Use Order Management Return APIs,FALSE
+PermissionsUserHasALMSimpleDeployAccess,Enable ALM Simple Deploy User Permission,FALSE
+PermissionsUserHasBillingAccount,Access EU User Billing Account,FALSE
+PermissionsUserHasEAndUProgramAccess,EU User Program Access,FALSE
+PermissionsUserHasEUCore,Access EU Objects,FALSE
+PermissionsUserHasSendToListFilterAccess,Send Marketing Emails,FALSE
+PermissionsUserHasUsageImpactAccess,EU User Impact Access,FALSE
+PermissionsUserHasWorkReportAccess,Manage User Work Report,FALSE
+PermissionsUseRouting,Access the Fulfillment Order routing APIs.,FALSE
+PermissionsUseServiceCatalogForGuest,Use Service Catalog As A Guest User,FALSE
+PermissionsUseServicePartReturn,Manufacturing Cloud Service Part Return Management User,FALSE
+PermissionsUseSmartDataDiscovery,Use Einstein Discovery,FALSE
+PermissionsUseSubscriptionEmails,Subscribe to CRM Analytics Assets,FALSE
+PermissionsUseSvcCatalog,Use Service Catalog,FALSE
+PermissionsUseTeamReassignWizards,Use Team Reassignment Wizards,FALSE
+PermissionsUseTeamsForItSrvcs,Manage ITSM Teams,FALSE
+PermissionsUseTemplatedApp,Use CRM Analytics Templated Apps,FALSE
+PermissionsUseWebLink,Allow Access to Customized Actions,FALSE
+PermissionsVideoConferenceMeetUser,Use Video Conferencing with Google Meet,FALSE
+PermissionsVideoConferenceTeamsUser,Use Video Conferencing with Teams,FALSE
+PermissionsVideoConferenceZoomUser,Use Video Conferencing with Zoom,FALSE
+PermissionsViewAccessPolicies,View Access Policies,TRUE
+PermissionsViewAgtfrceAnlytDshbrd,View Agentforce Analytics Dashboard,FALSE
+PermissionsViewAllActivities,View All Activities,TRUE
+PermissionsViewAllCalls,View All Voice And Video Calls,TRUE
+PermissionsViewAllCustomSettings,View All Custom Settings,TRUE
+PermissionsViewAllData,View All Data,TRUE
+PermissionsViewAllDataGovPolicies,View All Data Governance Policies,TRUE
+PermissionsViewAllDataGovTags,"View All Data Governance Tags, Classifications, and Taxonomies",TRUE
+PermissionsViewAllFieldsGlobal,View All Fields (Global),TRUE
+PermissionsViewAllForecasts,View All Forecasts,FALSE
+PermissionsViewAllForeignKeyNames,View All Lookup Record Names,FALSE
+PermissionsViewAllNonSetupFlows,View All Non-Admin Flows,TRUE
+PermissionsViewAllPolicyCenterPolicies,View All Policy Center Policies,FALSE
+PermissionsViewAllProfiles,View All Profiles,TRUE
+PermissionsViewAllUsers,View All Users,TRUE
+PermissionsViewAnomalyEvents,View Threat Detection Events,TRUE
+PermissionsViewArchivedArticles,View Archived Articles,FALSE
+PermissionsViewBusinessUnit,View Business Unit,FALSE
+PermissionsViewCaseAnlytDshbrd,View Case Analytics Dashboard,FALSE
+PermissionsViewCaseInteraction,Use Case Feed,FALSE
+PermissionsViewChangeRequestAnlytDshbrd,View Change Request Analytics Dashboard,FALSE
+PermissionsViewChangeRequestDshbrd,View Change Request Dashboard,FALSE
+PermissionsViewClientSecret,View External Client App Consumer Secrets in Metadata,TRUE
+PermissionsViewConsumption,View Consumption,FALSE
+PermissionsViewContent,View Content in Portals,FALSE
+PermissionsViewContentTaxonomy,View Content Taxonomy,FALSE
+PermissionsViewCustomerSentiment,View Customer Insights,FALSE
+PermissionsViewDataAssessment,Access to view Data Assessment,FALSE
+PermissionsViewDataCategories,View Data Categories in Setup,FALSE
+PermissionsViewDataGovTab,View the Data Governance Tab,FALSE
+PermissionsViewDataLeakageEvents,View Real-Time Event Monitoring Data,TRUE
+PermissionsViewDeveloperName,View Developer Name,FALSE
+PermissionsViewDraftArticles,View Draft Articles,FALSE
+PermissionsViewEmailMessagingSetup,View Email Messaging Setup,FALSE
+PermissionsViewEncryptedData,View Encrypted Data,TRUE
+PermissionsViewEventLogFiles,View Event Log Files,TRUE
+PermissionsViewForecastingPredictive,Use Einstein Forecasting,FALSE
+PermissionsViewGlobalHeader,View Global Header,FALSE
+PermissionsViewHealthCheck,View Health Check,TRUE
+PermissionsViewHelpLink,View Help Link,FALSE
+PermissionsViewIncidentAnlytDshbrd,View Incident Analytics Dashboard,FALSE
+PermissionsViewIncidentFulfrDshbrd,View Incident Fulfiller Dashboard,FALSE
+PermissionsViewIncidentMgrDshbrd,View Incident Manager Dashboard,FALSE
+PermissionsViewIntelligenceApp,View Commerce Intelligence App,FALSE
+PermissionsViewItLeaderAnlytDshbrd,View IT Leader Analytics Dashboard,FALSE
+PermissionsViewItsmConsoleAsFulfr,View ITSM Console App as Fulfillers,FALSE
+PermissionsViewItsmConsoleHmpg,View ITSM Console App Home Page,FALSE
+PermissionsViewKnwlgAnlytDshbrd,View Knowledge Analytics Dashboard,FALSE
+PermissionsViewMLModels,Allow users to view MLModels and related Entities,FALSE
+PermissionsViewMyTeamsDashboards,View My Team's Dashboards,FALSE
+PermissionsViewNonSetupFlow,View Flows,FALSE
+PermissionsViewOmnichnlAnlytDshbrd,View Omnichannel Analytics Dashboard,FALSE
+PermissionsViewOnlyEmbeddedAppUser,Access to View-Only Licensed Templates and Apps,FALSE
+PermissionsViewOrchestrationsInAutomApp,View Orchestrations in Automation App,FALSE
+PermissionsViewPayments,Use Payments or Access Payments,FALSE
+PermissionsViewPersonalOrg,View Personal Org,FALSE
+PermissionsViewPlatformEvents,View Login Forensics Events,TRUE
+PermissionsViewPrivateStaticResources,View Private Static Resources,FALSE
+PermissionsViewProblemFulfrDshbrd,View Problem Fulfiller Dashboard,FALSE
+PermissionsViewProblemMgrDshbrd,View Problem Manager Dashboard,FALSE
+PermissionsViewProductCatalogObjects,View Product Catalog,FALSE
+PermissionsViewPublicDashboards,View Dashboards in Public Folders,FALSE
+PermissionsViewPublicReports,View Reports in Public Folders,FALSE
+PermissionsViewRecommendations,View Recommendations,FALSE
+PermissionsViewRelAssoc,View Release Associations,FALSE
+PermissionsViewReleaseDshbrd,View Release Dashboard,FALSE
+PermissionsViewRestrictionAndScopingRules,View Restriction and Scoping Rules,FALSE
+PermissionsViewRoles,View Roles and Role Hierarchy,FALSE
+PermissionsViewSALifecycle,View Service Appointment Lifecycle,FALSE
+PermissionsViewSecurityCommandCenter,View Security Center pages,TRUE
+PermissionsViewSetup,View Setup and Configuration,TRUE
+PermissionsViewShieldApp,View Shield App Pages,FALSE
+PermissionsViewTrustMeasures,View Trust Measures,FALSE
+PermissionsViewUserPII,View Concealed Field Data,TRUE
+PermissionsVoiceCoach,Access Dialer Monitoring,FALSE
+PermissionsVoiceInbound,Access Dialer Inbound Calls,FALSE
+PermissionsVoiceMinutes,Access Dialer Minutes,FALSE
+PermissionsVoiceOutbound,Access Dialer Outbound Calls,FALSE
+PermissionsVoidInvoiceAPIUser,Void Invoice API,FALSE
+PermissionsWaveCommunityUser,View CRM Analytics on Experience Cloud site pages.,FALSE
+PermissionsWaveManagePrivateAssetsUser,Manage CRM Analytics Private Assets,FALSE
+PermissionsWaveTabularDownload,Download CRM Analytics Data,FALSE
+PermissionsWaveTrendReports,Trend Report Data in CRM Analytics,FALSE
+PermissionsWorkCalibrationUser,Enable WDC Calibration,FALSE
+PermissionsWorkDotComUserPerm,Enable WDC,FALSE
+PermissionsYourAccountCDAPublishEvents,Your Account Cache Durable Architecture Publish Events,FALSE
